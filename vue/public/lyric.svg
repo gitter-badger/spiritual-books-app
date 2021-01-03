@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<svg class="mus-score musje" width="805" style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;" height="190">
+  <defs>
+    <g id="t4-4" transform="matrix(1,0,0,0.8,7.4781,0)" style="font-size: 19px; font-weight: bold; text-anchor: middle;">
+      <text x="0" y="-19">4</text>
+      <text x="0" y="0">4</text>
+      <line x1="-7.478125" x2="7.478125" y1="-16.15" y2="-16.15"></line>
+    </g>
+    <g id="p100" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">1</text>
+    </g>
+    <g id="p200" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">2</text>
+    </g>
+    <g id="p300" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">3</text>
+    </g>
+    <g id="p400" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,1,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">4</text>
+    </g>
+    <g id="bs">
+      <rect x="0" y="0" width="0.8" height="1"></rect>
+    </g>
+    <g id="p500" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">5</text>
+    </g>
+    <g id="p600" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">6</text>
+    </g>
+    <g id="p700" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">7</text>
+    </g>
+    <g id="p000" stroke="#000000" style="stroke-width: 0;" transform="matrix(1,0,0,1,0,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">0</text>
+    </g>
+    <g id="as">
+      <path d="M6.102,7.457V2.753L8.102,2.201V6.881L6.102,7.457zM10.04,6.319L8.665,6.713V2.033L10.04,1.649V-0.295L8.665,0.089V-4.69277H8.102V0.234L6.102,0.809V-3.84077H5.571V0.986L4.196,1.371V3.319L5.571,2.935V7.606L4.196,7.989V9.929L5.571,9.545V14.299L6.102,14.29977V9.375L8.102,8.825V13.45077H8.665V8.651L10.04,8.266V6.319z" transform="matrix(0.817,0,0,0.817,-3.2281,-12.8659)"></path>
+    </g>
+    <g id="ps100" stroke="#000000" style="stroke-width: 0.1091;" transform="matrix(0.9409,0,0,0.95,-0.2,-2.4)">
+      <use xlink:href="#as" y="-2"></use>
+      <text x="5.729457664489746" y="0" style="font-size: 20px;">1</text>
+    </g>
+    <g id="ab">
+      <path d="M8.166,3.657C8.166,4.232 7.950425,4.78273 7.359,5.52188C6.732435,6.30494 6.205,6.75313 5.51,7.28013V3.848C5.668,3.449 5.901,3.126 6.21,2.878C6.518,2.631 6.83,2.507 7.146,2.507C7.668,2.507 7.999,2.803 8.142,3.393C8.158,3.441 8.166,3.529 8.166,3.657zM8.091,1.257C7.66,1.257 7.222,1.376 6.776,1.615C6.33,1.853 5.908,2.172 5.51,2.569V-4.70267H4.947 V7.75213C4.947,8.10413 5.043,8.28013 5.235,8.28013C5.346,8.28013 5.483913,8.18713 5.69,8.06413C6.27334,7.71598 6.636935,7.48332 7.032,7.23788C7.482617,6.95792 7.99,6.631 8.661,5.991C9.124,5.526 9.459,5.057 9.667,4.585C9.874,4.112 9.978,3.644 9.978,3.179C9.978,2.491 9.795,2.002 9.429,1.713C9.015,1.409 8.568,1.257 8.091,1.257z" transform="matrix(1.083,0,0,1.083,-5.1576,-10.9674)"></path>
+    </g>
+    <g id="pb200" stroke="#000000" style="stroke-width: 0.1091;" transform="matrix(0.9409,0,0,0.95,-0.2,-2.4)">
+      <use xlink:href="#ab" y="-2"></use>
+      <text x="6.538287162780762" y="0" style="font-size: 20px;">2</text>
+    </g>
+    <g id="an">
+      <path d="M 0,14.112V41.52h-1.248V31.248l-6.672,1.728V5.232h1.2v10.704l6.72,-1.824zm-6.72,6.432v7.536l5.472,-1.44v-7.536l-5.472,1.44z" transform="matrix(0.437,0,0,0.437,3.661,-19.2702)"></path>
+    </g>
+    <g id="pn200" stroke="#000000" style="stroke-width: 0.1091;" transform="matrix(0.9409,0,0,0.95,-0.2,-2.4)">
+      <use xlink:href="#an" y="-2"></use>
+      <text x="4.153248023986817" y="0" style="font-size: 20px;">2</text>
+    </g>
+    <g id="p3-10" stroke="#000000" style="stroke-width: 0.08;" transform="matrix(0.97,0,0,0.95,0,-5.054)">
+      <text x="0" y="0" style="font-size: 20px;">3</text>
+      <g>
+        <circle cx="5.25" cy="4" r="1.32"></circle>
+      </g>
+    </g>
+    <g id="p3-20" stroke="#000000" style="stroke-width: 0.1566;" transform="matrix(0.9409,0,0,0.9025,0,-8.9528)">
+      <text x="0" y="0" style="font-size: 20px;">3</text>
+      <g>
+        <circle cx="5.25" cy="4" r="1.32"></circle>
+        <circle cx="5.25" cy="8.6" r="1.32"></circle>
+      </g>
+    </g>
+    <g id="p410" stroke="#000000" style="stroke-width: 0.08;" transform="matrix(0.97,0,0,0.95,1,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">4</text>
+      <g>
+        <circle cx="5" cy="-19" r="1.32"></circle>
+      </g>
+    </g>
+    <g id="p420" stroke="#000000" style="stroke-width: 0.1566;" transform="matrix(0.9409,0,0,0.9025,1,-2.4)">
+      <text x="0" y="0" style="font-size: 20px;">4</text>
+      <g>
+        <circle cx="5" cy="-19" r="1.32"></circle>
+        <circle cx="5" cy="-23.6" r="1.32"></circle>
+      </g>
+    </g>
+    <g id="d10">
+      <rect x="6" y="-1" width="11" height="1"></rect>
+      <rect x="26" y="-1" width="11" height="1"></rect>
+      <rect x="46" y="-1" width="11" height="1"></rect>
+    </g>
+    <g id="d20">
+      <rect x="6" y="-1" width="11" height="1"></rect>
+    </g>
+    <g id="p501" stroke="#000000" style="stroke-width: 0.08;" transform="matrix(0.97,0,0,0.95,0,-3.4)">
+      <text x="0" y="0" style="font-size: 20px;">5</text>
+    </g>
+    <g id="p502" stroke="#000000" style="stroke-width: 0.1566;" transform="matrix(0.9409,0,0,0.9025,0,-6.8)">
+      <text x="0" y="0" style="font-size: 20px;">5</text>
+    </g>
+    <g id="p506" stroke="#000000" style="stroke-width: 0.431936;" transform="matrix(0.833,0,0,0.7351,0,-20.4)">
+      <text x="0" y="0" style="font-size: 20px;">5</text>
+    </g>
+  </defs>
+  <g transform="matrix(1,0,0,1,30,25)" class="mus-body">
+    <g class="mus-header">
+      <text x="372.5" y="22" style="font-size: 22px; font-weight: bold; text-anchor: middle;">编辑器使用说明</text>
+      <text x="745" y="33" style="font-size: 18px; font-weight: bold; text-anchor: end;">作者：corn</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,56)" class="mus-content">
+      <g transform="matrix(1,0,0,1,0,0)" class="mus-system">
+        <g transform="matrix(1,0,0,1,0,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10,24)" class="mus-cell">
+            <use xlink:href="#t4-4" x="0" y="0"></use>
+            <g transform="matrix(1,0,0,1,19.5875,0)">
+              <use xlink:href="#p100"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,34.5703,0)">
+              <use xlink:href="#p200"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,49.5531,0)">
+              <use xlink:href="#p300"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,64.536,0)">
+              <use xlink:href="#p400"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,106.4286,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p500"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,19.461,0)">
+              <use xlink:href="#p600"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,38.9221,0)">
+              <use xlink:href="#p700"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,59.0542,0)">
+              <use xlink:href="#p000"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,212.8571,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p100"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,16.343,0)">
+              <use xlink:href="#ps100"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,37.8392,0)">
+              <use xlink:href="#pb200"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,60.2964,0)">
+              <use xlink:href="#pn200"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,319.2857,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p3-10"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,19.1896,0)">
+              <use xlink:href="#p3-20"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,37.9459,0)">
+              <use xlink:href="#p410"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,58.5092,0)">
+              <use xlink:href="#p420"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,425.7143,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p500"></use>
+              <use xlink:href="#d10" x="10.5" y="-9.899999618530273"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,532.1429,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p500"></use>
+              <use xlink:href="#d20" x="10.5" y="-9.899999618530273"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,40.1031,0)">
+              <use xlink:href="#p500"></use>
+              <use xlink:href="#d20" x="10.5" y="-9.899999618530273"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,106.0286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,638.5714,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p500"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,19.7709,0)">
+              <use xlink:href="#p500"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,39.5419,0)">
+              <use xlink:href="#p500"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,59.3128,0)">
+              <use xlink:href="#p500"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,105.6286,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1,0,0,1,0,60)" class="mus-system">
+        <g transform="matrix(1,0,0,1,0,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p501"></use>
+              <line x1="0" x2="24.37" y1="0" y2="0" style="stroke-width: 1;"></line>
+            </g>
+            <g transform="matrix(1,0,0,1,14.185,0)">
+              <use xlink:href="#p501"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,28.37,0)">
+              <use xlink:href="#p501"></use>
+              <line x1="0" x2="24.369999999999997" y1="0" y2="0" style="stroke-width: 1;"></line>
+            </g>
+            <g transform="matrix(1,0,0,1,42.555,0)">
+              <use xlink:href="#p501"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,56.74,0)">
+              <use xlink:href="#p502"></use>
+              <line x1="0" x2="51.45899375" y1="0" y2="0" style="stroke-width: 1;"></line>
+              <line x1="0" x2="51.45899375" y1="-3.4" y2="-3.4" style="stroke-width: 1;"></line>
+              <path d="M4.939724922180176,-19.947500228881836c0,-8 96.48676462478637,-18.419401168823242 96.48676462478637,-10.419401168823242c0,-10 -96.48676462478637,0.4194011688232422 -96.48676462478637,10.419401168823242"></path>
+            </g>
+            <g transform="matrix(1,0,0,1,70.6047,0)">
+              <use xlink:href="#p502"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,84.4695,0)">
+              <use xlink:href="#p502"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,98.3342,0)">
+              <use xlink:href="#p502"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,112.199,0)">
+              <use xlink:href="#p502"></use>
+              <line x1="0" x2="50.34074531249999" y1="0" y2="0" style="stroke-width: 1;"></line>
+              <line x1="0" x2="50.34074531249999" y1="-3.4" y2="-3.4" style="stroke-width: 1;"></line>
+            </g>
+            <g transform="matrix(1,0,0,1,126.0637,0)">
+              <use xlink:href="#p502"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,139.9285,0)">
+              <use xlink:href="#p502"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,153.7932,0)">
+              <use xlink:href="#p506"></use>
+              <line x1="0" x2="8.7465" y1="-6.8" y2="-6.8" style="stroke-width: 1;"></line>
+              <line x1="0" x2="8.7465" y1="-10.2" y2="-10.2" style="stroke-width: 1;"></line>
+              <line x1="0" x2="8.7465" y1="-13.6" y2="-13.6" style="stroke-width: 1;"></line>
+              <line x1="0" x2="8.7465" y1="-17" y2="-17" style="stroke-width: 1;"></line>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,190.9397,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+          <g class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,191.3397,0)" class="mus-measure">
+          <g transform="matrix(1,0,0,1,10.4,24)" class="mus-cell">
+            <g transform="matrix(1,0,0,1,0,0)">
+              <use xlink:href="#p600"></use>
+              <path d="M5.25,-17.399999618530273c0,-8 14.5,-8 14.5,0c0,-10 -14.5,-10 -14.5,0"></path>
+            </g>
+            <g transform="matrix(1,0,0,1,14.5,0)">
+              <use xlink:href="#p600"></use>
+            </g>
+            <g transform="matrix(1,0,0,1,29,0)">
+              <use xlink:href="#p600"></use>
+              <path d="M5.25,-17.399999618530273c0,-8 14.75,-8 14.75,0c0,-10 -14.75,-10 -14.75,0"></path>
+            </g>
+            <g transform="matrix(1,0,0,1,43.5,0)">
+              <use xlink:href="#p700"></use>
+            </g>
+          </g>
+          <g transform="matrix(1,0,0,1,82.5,0)" class="mus-barline">
+            <use xlink:href="#bs" transform="matrix(1,0,0,24,0,0)"></use>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
